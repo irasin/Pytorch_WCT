@@ -22,7 +22,7 @@ def denorm(tensor, device):
 
 
 def main():
-    parser = argparse.ArgumentParser(description='AdaIN Style Transfer by Pytorch')
+    parser = argparse.ArgumentParser(description='WCT by Pytorch')
     parser.add_argument('--content', '-c', type=str, default=None,
                         help='Content image path e.g. content.jpg')
     parser.add_argument('--style', '-s', type=str, default=None,

@@ -47,7 +47,7 @@ Anaconda environment recommended here!
 4. Generate the output image. A transferred output image and a content_output_pair image and a NST_demo_like image will be generated.
 
    ```python
-   python test -c content_image_path -s style_image_path
+   python test.py -c content_image_path -s style_image_path
    ```
 
    ```

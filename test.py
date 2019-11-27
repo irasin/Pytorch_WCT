@@ -38,8 +38,8 @@ def main():
     model = MultiLevelAE(args.model_state_path)
     model = model.to(device)
 
-    c = Image.open(args.content)
-    s = Image.open(args.style)
+    c = Image.open(args.content).convert('RGB')
+    s = Image.open(args.style).convert('RGB')
     c_tensor = trans(c).unsqueeze(0).to(device)
     s_tensor = trans(s).unsqueeze(0).to(device)
     with torch.no_grad():

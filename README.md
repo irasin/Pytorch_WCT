@@ -70,12 +70,21 @@ Anaconda environment recommended here!
 
 Some results of content image and my cat (called Sora) will be shown here.
 
-![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/res1.gif)
-![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/res3.gif)
-![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/res4.gif)
-![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/res5.gif)
-![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/neko_hosi.jpg)
-![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/neko_hosi_style_transfer_demo.jpg)
+![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/IMG_0565_03_demo.jpg)
+![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/IMG_0565_04_demo.jpg)
+![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/IMG_0565_05_demo.jpg)
+![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/IMG_0565_1_demo.jpg)
+![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/IMG_0565_brideg_demo.jpg)
+![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/IMG_0565_feathers_demo.jpg)
+![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/IMG_0565_horse_demo.jpg)
+![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/IMG_0565_hosi_demo.jpg)
+![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/IMG_0565_hs6_demo.jpg)
+![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/IMG_0565_picasso_seated_nude_hr_demo.jpg.jpg)
+![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/IMG_0565_udnie_demo.jpg)
+![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/IMG_0565_wave_demo.jpg)
+
+
+![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/neko_hosi_transfer_demo.jpg)
 
 
 

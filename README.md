@@ -84,7 +84,7 @@ Some results of content image and my cat (called Sora) will be shown here.
 ![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/IMG_0565_wave_demo.jpg)
 
 
-![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/neko_hosi_demo.jpg)
+![image](https://github.com/irasin/Pytorch_WCT/blob/master/res/neko_hosi.jpg)
 
 
 

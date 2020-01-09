@@ -11,7 +11,7 @@ This repository provides a pre-trained model for you to generate your own image 
 If you have any question, please feel free to contact me. (Language in English/Japanese/Chinese will be ok!)
 
 ## Notice
-I propose a structure-emphasized mul-timodal style transfer(SEMST), feel free to use it [here](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer).
+I propose a structure-emphasized multimodal style transfer(SEMST), feel free to use it [here](https://github.com/irasin/Structure-emphasized-Multimodal-Style-Transfer).
 
 ------
 

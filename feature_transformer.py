@@ -45,7 +45,7 @@ def whiten_and_color(content_feature, style_feature, alpha=1):
 
     colored_feature = colored.reshape(c, ch, cw).unsqueeze(0).float()
 
-    colored_feature = alpha * colored_feature + (1 - alpha) * content_feature
+    colored_feature = alpha * colored_feature + (1.0 - alpha) * content_feature
     return colored_feature
 
 
